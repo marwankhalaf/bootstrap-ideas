@@ -1,0 +1,100 @@
+body {
+    font-family: "Roboto" , sans-serif;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.carousel {
+    height: 700px;
+}
+
+.carousel-item img {
+    background-size: cover;
+    height: 100%;
+}
+
+.carousel-indicators button {
+   color: blue;
+}
+
+.about {
+    padding: 60px 0;
+}
+
+.about h2 {
+    text-transform: capitalize;
+}
+
+.about-info {
+    padding: 60px 0;
+}
+
+.about-info img {
+    height: 490px;
+}
+
+.list-group li {
+ text-transform: uppercase;
+}
+
+.cert div {
+    margin: 6px 0;
+}
+
+.service {
+    text-align: center;
+    padding: 60px 0 ;
+}
+
+.service h2 {
+    letter-spacing: 1.7px;
+}
+
+.service img{
+ width: 600px;
+ height: 24rem;
+ padding: 20px 0;
+}
+
+.feature h2 {
+    margin: 20px 0;
+    padding-bottom: 20px;
+}
+
+.feat-info {
+    padding: 20px 0;
+}
+.feat-info div {
+    height: auto;
+    margin: 8px 0;
+}
+
+footer {
+    padding: 40px 0;
+}
+
+iframe {
+    width:99%;
+}
+
+.inputs div {
+    margin-bottom: 20px;
+}
+
+.icons {
+    background-color: rgba(165, 42, 42, 0.808);
+}
+
+#click {
+    position: absolute;
+    top: 80%;
+    left: 96%;
+    position: sticky;
+    font-size: 22px;
+    cursor: pointer;
+    visibility: hidden;
+}
